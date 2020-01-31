@@ -5,7 +5,7 @@
 }
 .result {
     height: 60px;
-    background-color: #bbb;
+    background-color: dodgerblue;
     width: 100%;
 }
 
@@ -29,4 +29,5 @@ button {
     width: 25%;
     height: 60px;
     font-size: 30px;
+    background-color: dodgerblue;
 }
